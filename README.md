@@ -4,7 +4,7 @@ ARIES is an agentic AI that automates top-of-funnel hiring. Unlike keyword-based
 ## 🚀 Project Banner
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_vu027zvu027zvu02_VX7NEmD.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/8.png"
        alt="Project Banner"
        width="900"/>
 </p>
@@ -14,7 +14,7 @@ ARIES is an agentic AI that automates top-of-funnel hiring. Unlike keyword-based
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/architecture_ywYBkwl.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/architecture_ywYBkwl.jpg"
        alt="System Architecture Diagram"
        width="800"/>
 </p>
